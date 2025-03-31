@@ -1,0 +1,596 @@
+[
+    {
+        "rarity": "uncommon",
+        "name": "albatross pendant",
+        "description": "A magic communication device that delivers headlines from the Albatross Press.",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "archive",
+        "description": "A talking crystal ball that is programmed to recall information stored inside.",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "atlas incognito",
+        "description": "A book of 10 magic stamps that reveals interesting local information.",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "blink blade",
+        "description": "A magic sword that can teleport back to its user's hand. <2>",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "brell's boat in a box",
+        "description": "A small wooden box that can expand into a real, working sloop.",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "brell's charismatic couture",
+        "description": "A line of magical shapeshifting garments that automatically find a perfect fit for their wearer.",
+        "rulebookref": "(d 133, p 176)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "brell's limitless ledger",
+        "description": "A magical networked codex that duplicates entries from linked journals.",
+        "rulebookref": "(d 134, p 177)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "brell's tent in a tin",
+        "description": "A magic tin canister that can deploy a large tent.",
+        "rulebookref": "(d 134, p 177)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "dim grimoire",
+        "description": "A magic notebook that's risky to read, but can provide great benefits.",
+        "rulebookref": "(d 134, p 177)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "discretion",
+        "description": "A magic scabbard that can make weapons appear invisible.",
+        "rulebookref": "(d 135, p 178)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "field monitor",
+        "description": "A magic map that can respond to questions and provide useful information.",
+        "rulebookref": "(d 135, p 178)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "friend flute",
+        "description": "A magic whistle that knows who your friends are.",
+        "rulebookref": "(d 135, p 178)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "glitter bomb",
+        "description": "A pouch of magic glitter that dispels invisibility.",
+        "rulebookref": "(d 135, p 178)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "goat simulator",
+        "description": "A magic stuff toy goat that can turn into a lifesized illusory goat.",
+        "rulebookref": "(d 135, p 178)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "healing potion",
+        "description": "A potion that heals you. What were you expecting?",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "kiln gauze",
+        "description": "A container of magic gauze that can be used to repair broken metal weapons.",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "light trap",
+        "description": "A magic glass orb that can be used like a camera.",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "lying lyre",
+        "description": "A magic lyre that guides its user's hands to produce a beautiful song.",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "magic potion",
+        "description": "A vial filled with magic liquid that has unpredictable effects.",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "mischievous marbles",
+        "description": "A bag of marbles that seeks out creatures to trip.",
+        "rulebookref": "(d 136, p 179)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "not a pipe",
+        "description": "This is a pipe. When smoked, it creates a thick magical fog.",
+        "rulebookref": "(d 137, p 180)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "permanent solution",
+        "description": "A small dropper filled with magic liquid that can permanently bond two things treasure catalog together.",
+        "rulebookref": "(d 137, p 180)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "portable potent potable probe",
+        "description": "A small box with a magic dish that can be used to detect poison.",
+        "rulebookref": "(d 137, p 180)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "quiplasher",
+        "description": "A sentient magic whip that loves witty one-liners. <3>",
+        "rulebookref": "(d 137, p 180)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "ramification",
+        "description": "A magic battering ram that can shatter wooden doors.",
+        "rulebookref": "(d 137, p 181)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "registrar",
+        "description": "A magic book that automatically senses and records the most commonly-used name of a creature that passes nearby.",
+        "rulebookref": "(d 138, p 181)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "repeater",
+        "description": "A compact magic crossbow. <4>[2 ap]",
+        "rulebookref": "(d 138, p 181)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "silvery horn",
+        "description": "An enchanted horn that can send messages far and wide. [2 ap]",
+        "rulebookref": "(d 138, p 181)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "skycaller amulets",
+        "description": "Pairs of magic amulets that allow their owners to communicate with each other.",
+        "rulebookref": "(d 138, p 181)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the catcher",
+        "description": "A heavy metal gauntlet that allows the wearer to prevent weapon attacks. [1 ap]",
+        "rulebookref": "(d 139, p 182)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the howdy doodat",
+        "description": "A magic candle that detects illusions.",
+        "rulebookref": "(d 139, p 182)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the lagniappe",
+        "description": "A weapon with a little extra damage. <3>",
+        "rulebookref": "(d 139, p 182)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the left-handed smoke shifter",
+        "description": "A metal rod that sends the bearer on an impossible quest.",
+        "rulebookref": "(d 139, p 182)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the sure shot",
+        "description": "A magic bow that guides its user's hand. <2>",
+        "rulebookref": "(d 139, p 182)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "tricky ticket",
+        "description": "Magic tickets that can transform into forgeries.",
+        "rulebookref": "(d 140, p 183)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "untamed magic broom",
+        "description": "A flying broom with its own agenda.",
+        "rulebookref": "(d 140, p 183)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "the true witness",
+        "description": "A set of linked magic glasses that share perspectives.",
+        "rulebookref": "(d 140, p 183)"
+    },
+    {
+        "rarity": "uncommon",
+        "name": "wraithfire bomb",
+        "description": "A dark crystal orb that goes boom. <4>",
+        "rulebookref": "(d 140, p 183)"
+    },
+    {
+        "rarity": "rare",
+        "name": "abdellahi's scepter",
+        "description": "A magic scepter that casts a chilling spell. <2>",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "abyssal brand",
+        "description": "An edged weapon forged by a conniving demon. <2>",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "accursed band",
+        "description": "A translucent magic bracelet that can detect spirits.",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "big belt of strong strength",
+        "description": "An unusually large belt that makes you feel unusually strong. [1 ap]",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "bonebreaker",
+        "description": "A giant hammer imbued with magic force that accelerates the weapon as it is swung. <2>",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "chaos pearls",
+        "description": "A bag of luminescent magic pearls that can explode with force.",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "dawnbringer",
+        "description": "A greathammer imbued with radiant light. <2>[2 ap]",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "death adder",
+        "description": "A small magic tally counter that senses nearby deaths. [1 ap]",
+        "rulebookref": "(d 141, p 184)"
+    },
+    {
+        "rarity": "rare",
+        "name": "defiance",
+        "description": "A silvered short blade that grants the wielder immunity against mind magic. <2>",
+        "rulebookref": "(d 142, p 185)"
+    },
+    {
+        "rarity": "rare",
+        "name": "draconis",
+        "description": "A longsword forged in the flame of a dragon's breath. <2>",
+        "rulebookref": "(d 142, p 185)"
+    },
+    {
+        "rarity": "rare",
+        "name": "dress of many pockets",
+        "description": "A magic dress that deceptively appears to have no pockets. It has many.",
+        "rulebookref": "(d 142, p 185)"
+    },
+    {
+        "rarity": "rare",
+        "name": "gideon's shroud",
+        "description": "A cloak that makes the wearer undetectable by magic.",
+        "rulebookref": "(d 143, p 186)"
+    },
+    {
+        "rarity": "rare",
+        "name": "lichblade",
+        "description": "The weapon of a banished lich that casts a malevolent aura. <2>",
+        "rulebookref": "(d 143, p 186)"
+    },
+    {
+        "rarity": "rare",
+        "name": "masterwork",
+        "description": "A weapon of incredible quality that still bears its maker's mark. <3>",
+        "rulebookref": "(d 143, p 186)"
+    },
+    {
+        "rarity": "rare",
+        "name": "needful gift box",
+        "description": "A small wooden box that can produce an object of value.",
+        "rulebookref": "(d 143, p 186)"
+    },
+    {
+        "rarity": "rare",
+        "name": "perspicacious pot",
+        "description": "A magic pot that can create a recipe.",
+        "rulebookref": "(d 143, p 186)"
+    },
+    {
+        "rarity": "rare",
+        "name": "portal chalk",
+        "description": "A stick of chalk that can open a portal.",
+        "rulebookref": "(d 144, p 187)"
+    },
+    {
+        "rarity": "rare",
+        "name": "professor prim's mind exploder",
+        "description": "A magic consumable that bestows a new ability.",
+        "rulebookref": "(d 144, p 187)"
+    },
+    {
+        "rarity": "rare",
+        "name": "scintillating wand",
+        "description": "A magic wand that fills the wielder with mischievous thoughts.",
+        "rulebookref": "(d 144, p 187)"
+    },
+    {
+        "rarity": "rare",
+        "name": "scrying sphere",
+        "description": "A magic crystal ball that gives the user a glimpse at the future.",
+        "rulebookref": "(d 144, p 187)"
+    },
+    {
+        "rarity": "rare",
+        "name": "scion",
+        "description": "A magic pincushion that can detect family relations.",
+        "rulebookref": "(d 144, p 187)"
+    },
+    {
+        "rarity": "rare",
+        "name": "serpentine staff",
+        "description": "A snakewood staff that can transform into a viper. <2>[1 ap]",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "spell scroll",
+        "description": "A magic scroll enchanted with a spell.",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "spirit trap",
+        "description": "A crystal orb that attracts and traps spirit creatures nearby.",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "the bouncer",
+        "description": "A magic buckler that turns the table on attackers.",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "the compensator",
+        "description": "A broadsword with an envy problem. <2>",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "the eager edge",
+        "description": "A sentient magic sword that loves to be used. <2>",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "rare",
+        "name": "the miracle sponge",
+        "description": "A sponge with almost no limit to its thirst.",
+        "rulebookref": "(d 145, p 188)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "a magician's key",
+        "description": "An obsidian skeleton key that creates a private plane. [5 ap]",
+        "rulebookref": "(d 146, p 189)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "ancient ranger's pouch",
+        "description": "A pouch filled with seeds that grow into sentient tree creatures.",
+        "rulebookref": "(d 146, p 189)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "bane",
+        "description": "A magical dagger that tries to charm nearby creatures. <2>",
+        "rulebookref": "(d 146, p 189)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "blood pact",
+        "description": "A sentient blade that curses whoever picks it up to feel an unquenchable bloodthirst. <4>",
+        "rulebookref": "(d 146, p 189)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "cloak of a hundred billion stars",
+        "description": "A magic cloak that allows an Invoker to commune with the stars.",
+        "rulebookref": "(d 146, p 189)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "conway's comrades",
+        "description": "A set of magic toy figurines that can come alive to do battle. [4 ap]",
+        "rulebookref": "(d 147, p 190)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "cosmic purse",
+        "description": "A magic bag that can hold an unlimited number of items.",
+        "rulebookref": "(d 147, p 190)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "creighton's fascinators",
+        "description": "A pair of tall black boots that cast an aura of leadership. [5 ap]",
+        "rulebookref": "(d 147, p 190)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "echo",
+        "description": "A ring that duplicates spells and reflects them.",
+        "rulebookref": "(d 148, p 191)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "fable",
+        "description": "A weapon handed down through generations that records the deeds of its wielder. <3>",
+        "rulebookref": "(d 148, p 191)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "guile",
+        "description": "A cameo brooch that can create an illusory visage. [1 ap]",
+        "rulebookref": "(d 148, p 191)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "gungrox's coin",
+        "description": "A smooth platinum coin that randomize a player's role.",
+        "rulebookref": "(d 148, p 191)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "harmony",
+        "description": "A weathered wooden lute that seeks music through the omniverse. [5 ap]",
+        "rulebookref": "(d 148, p 192)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "harper's haven",
+        "description": "A small stone figurine with world-shaking power. [10 ap] ",
+        "rulebookref": "(d 149, p 192)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "june's blanket",
+        "description": "A patchwork blanket that offers love and comfort. [1/4 ap]",
+        "rulebookref": "(d 149, p 192)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "lorelai's wand",
+        "description": "A magic wand that imbues the wielder with incredible power.",
+        "rulebookref": "(d 149, p 192)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "loren's luminous starglass",
+        "description": "A magic telescope that carries its wielder through the stars. [3/9 ap]",
+        "rulebookref": "(d 150, p 192)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "multivious map",
+        "description": "A sentient map of the stars that loves to pontificate about possibility. [1 ap]",
+        "rulebookref": "(d 150, p 193)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "nightmare",
+        "description": "A greatsword that gives walking nightmares. <3>",
+        "rulebookref": "(d 150, p 193)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "prismatic circlet",
+        "description": "This crystal crown that projects a major illusion. [3 ap]",
+        "rulebookref": "(d 150, p 193)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "resplendent plate",
+        "description": "An indomitable breastplate that makes the wearer resistant to attacks.",
+        "rulebookref": "(d 151, p 194)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "rebellion",
+        "description": "An ancient bronze shield that lights the fires of independence. [4 ap]",
+        "rulebookref": "(d 151, p 194)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "shadow",
+        "description": "A magic shortblade forged by a malevolent god that reaps souls. <3>",
+        "rulebookref": "(d 151, p 194)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "the cosmic cruiser",
+        "description": "A magic starship that can travel through space and the omniverse. [3/9 ap]",
+        "rulebookref": "(d 151, p 194)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "the toll",
+        "description": "An iridescent coin that offers eternal paradise.",
+        "rulebookref": "(d 152, p 195)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "unity",
+        "description": "A magic pin allowing the wearer to comprehend languages.",
+        "rulebookref": "(d 152, p 195)"
+    },
+    {
+        "rarity": "legendary",
+        "name": "vol",
+        "description": "A magic spear that can become a bolt of lightning. <3>",
+        "rulebookref": "(d 152, p 195)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "conservator's ring",
+        "description": "An unimaginably powerful ring that can consume universes. [9 ap]",
+        "rulebookref": "(d 153, p 196)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "cosmic forge",
+        "description": "An obsidian ring that allows the bearer to conjure any object into existence.",
+        "rulebookref": "(d 153, p 196)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "dubbin's dire die",
+        "description": "A 20-sided die that bends the fate of nearby creatures. [4 ap]",
+        "rulebookref": "(d 154, p 197)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "it whispers to you",
+        "description": "A humble ring that bestows a terrible and cursed power.",
+        "rulebookref": "(d 154, p 197)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "the hand",
+        "description": "A pocketwatch that can travel through time. [3/9 ap]",
+        "rulebookref": "(d 154, p 197)"
+    },
+    {
+        "rarity": "supreme",
+        "name": "wish heart",
+        "description": "A magic locket that turns wishes into reality.",
+        "rulebookref": "(d 155, p 198)"
+    }
+]
